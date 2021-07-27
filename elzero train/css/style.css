@@ -1,0 +1,64 @@
+   .container .logo { 
+    color: black;
+    font-size: 30px;
+    margin-left: 80px;;
+}
+
+.li_active{
+    color:blue !important;
+}
+
+.home{
+    margin: 10px;
+    height: 600px;
+    background-color: rgb(210, 240, 241);
+}
+.businiss{
+    color: darkblue;
+    font: 45px bold;
+}
+.home_h2{
+    font-size: 45px;
+}
+.home_img{
+    width: 70%;
+}
+.part2_img{
+    width: 90%;
+    height: 70%;
+
+}
+.service{
+    margin: 10px;
+    height: 700px;
+    background-color: rgb(226, 242, 243);
+}
+.card{
+    
+    height: 30%;
+}
+.fa-anchor , .fa-user{
+color:darksalmon;
+
+position: absolute;
+bottom:80%;
+left: 50%;
+background-color: pink;
+border-radius:50%;
+transform:translate(-50%,50%);
+padding: 12px;
+border: 2px solid white;
+}
+.fa-user{
+    color:blue;
+
+    position: absolute;
+    bottom:80%;
+    left: 50%;
+    background-color:rgb(184, 169, 228);
+    border-radius:50%;
+    transform:translate(-50%,50%);
+    padding: 12px;
+    border: 2px solid white;
+    }   
+
